@@ -1,0 +1,14 @@
+Finish Alpha Version
+	Mutexes
+	Curses Status Percentages
+	NTS File Parsing
+	Assembly
+	SHA160 Total hashing
+	SHA160 Component hashing
+	popt
+Finish Beta Version
+	make swarmget more intelligent so that it can query only as many 
+	hosts as needed to fill up down pipe with out wasting bandwidth 
+	with rejected packets.
+Finish Project
+

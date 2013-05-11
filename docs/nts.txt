@@ -1,0 +1,10 @@
+Non-Transient Swarms
+--------------------
+
+Non-Transient Swarms are swarms of servers which hold common content.
+Ideaily these servers would agree to cooperate to make this common
+content available and even perhaps coordinate mirroring of the 
+content between themselves.
+
+Swarmget was inspired by BitTorrent. 
+

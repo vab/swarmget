@@ -1,0 +1,9 @@
+2003.02.08 Project Started
+2003.02.30 v0.0.1 Released
+2003.04.01 v0.0.2 Relaased
+	- md5 hash algo support
+	- improved file handeling
+	- improved data structures
+	- example nts files in docs/
+	- usage info added
+

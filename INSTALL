@@ -1,0 +1,7 @@
+swarmget requires no special install efforts.  You can simply run
+the commands:
+
+bash$ ./configure
+bash$ make
+bash$ make install
+

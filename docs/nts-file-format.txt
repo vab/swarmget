@@ -1,0 +1,5 @@
+FILENAME HASH  BYTE SIZE FILE-UID
+URL1 speed
+URL2 speed
+URL3 speed
+URL[n] speed
